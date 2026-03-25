@@ -1,0 +1,5 @@
+item_id,stimulus_type,stimulus_url,question,choice_1,choice_2,choice_3,choice_4
+audio_dax,audio,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/animate_sound_and_script_(dax_script)-converted-[AudioTrimmer.com].mp3,What would you name this sound?,shang,blick,dax,wug
+audio_wug,audio,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/inanimate_sound_and_script_(wug_script)-converted-[AudioTrimmer.com].mp3,What would you name this sound?,shang,blick,dax,wug
+audio_blick,audio,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/animate_sound_and_script_(blick_script)-converted-[AudioTrimmer.com].mp3,What would you name this sound?,shang,blick,dax,wug
+audio_shang,audio,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/inanimate_sound_and_script_(shang_script)-converted-[AudioTrimmer.com].mp3,What would you name this sound?,shang,blick,dax,wug

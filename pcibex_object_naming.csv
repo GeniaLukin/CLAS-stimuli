@@ -1,0 +1,5 @@
+item_id,stimulus_type,stimulus_url,question,choice_1,choice_2,choice_3,choice_4
+image_dax,image,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/dax.png,What would you name this object?,shang,blick,dax,wug
+image_wug,image,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/wug.png,What would you name this object?,shang,blick,dax,wug
+image_blick,image,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/blick.png,What would you name this object?,shang,blick,dax,wug
+image_shang,image,https://cdn.jsdelivr.net/gh/GeniaLukin/CLAS-stimuli@main/shang.png,What would you name this object?,shang,blick,dax,wug
